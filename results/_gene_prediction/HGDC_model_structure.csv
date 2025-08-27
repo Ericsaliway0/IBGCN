@@ -1,0 +1,2 @@
+Method,Number of Layers,Input Layer Nodes,Hidden Layer Nodes,Attention Layer Nodes,Output Layer Nodes,Total Parameters,Residual Connection
+HGDC,11,2048,128,N/A,1,427784,No
