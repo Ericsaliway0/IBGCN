@@ -1,2 +1,0 @@
-Model Type,Total Time,Average Time per Epoch,Average CPU Usage (MB),Average GPU Usage (MB)
-IBGCN,30.6335s,0.1018s,31.46,0.00

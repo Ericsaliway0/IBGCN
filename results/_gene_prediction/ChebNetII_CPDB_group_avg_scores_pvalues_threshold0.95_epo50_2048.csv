@@ -1,9 +1,0 @@
-Group Label,Average Score,Comparison,P-Value
-Group 1,0.5728495609954751,,
-Group 2,0.0,,
-Group 0,0.5279338097986577,,
-Group 3,0.5452055675637042,,
-,,Group 1 vs Group 2,nan
-,,Group 1 vs Group 0,7.93583594823958e-11
-,,Group 1 vs Group 3,9.29534244950379e-08
-,,Group 2 vs Group 3,nan
